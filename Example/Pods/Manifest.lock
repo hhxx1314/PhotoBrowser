@@ -1,0 +1,16 @@
+PODS:
+  - PhotoBrowser (0.1.0)
+
+DEPENDENCIES:
+  - PhotoBrowser (from `../`)
+
+EXTERNAL SOURCES:
+  PhotoBrowser:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PhotoBrowser: ade449bc7784961574ca1e0a67798b950d3266e7
+
+PODFILE CHECKSUM: cb66e0e417ed45dbb713a504de508de8ed3ce9f1
+
+COCOAPODS: 1.0.0

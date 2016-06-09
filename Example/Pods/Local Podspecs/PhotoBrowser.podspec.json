@@ -1,0 +1,22 @@
+{
+  "name": "PhotoBrowser",
+  "version": "0.1.0",
+  "summary": "A short description of PhotoBrowser.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/PhotoBrowser",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Manish Bansal": "manishb@azuga.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/PhotoBrowser.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PhotoBrowser/Classes/**/*"
+}
